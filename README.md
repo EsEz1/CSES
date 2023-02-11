@@ -1,2 +1,2 @@
 # CSES
-My solution of CSES problems 
+My solutions of CSES problems 
